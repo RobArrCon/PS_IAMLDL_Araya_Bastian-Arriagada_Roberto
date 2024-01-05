@@ -8,7 +8,8 @@ RUN pip install pandas \
                 matplotlib \
                 seaborn \
                 stop-words \
-                openpyxl
+                openpyxl \
+                random
 
 # Instala Jupyter
 RUN pip install jupyter
